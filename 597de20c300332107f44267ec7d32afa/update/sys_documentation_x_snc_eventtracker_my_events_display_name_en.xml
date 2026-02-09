@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="display_name" label="Dispaly Name" language="en" table="x_snc_eventtracker_my_events">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>display_name</element>
+            <help/>
+            <hint/>
+            <label>Dispaly Name</label>
+            <language>en</language>
+            <name>x_snc_eventtracker_my_events</name>
+            <plural>Dispaly Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-02-09 11:10:52</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Dispaly Name</sys_name>
+            <sys_package display_value="eventTracker" source="x_snc_eventtracker">597de20c300332107f44267ec7d32afa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="eventTracker">597de20c300332107f44267ec7d32afa</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_eventtracker_my_events_display_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-02-09 11:10:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
