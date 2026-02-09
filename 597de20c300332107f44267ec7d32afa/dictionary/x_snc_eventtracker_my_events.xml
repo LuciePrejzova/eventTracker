@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="f9cf2e00304332107f44267ec7d32abe" label="My Events" max_length="40" name="x_snc_eventtracker_my_events" type="collection">
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="URL" max_length="1024" name="url" type="url"/>
+        <element label="Requester" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Item" max_length="40" name="name" type="string"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <index name="index">
+            <element name="requester"/>
+        </index>
     </element>
 </database>

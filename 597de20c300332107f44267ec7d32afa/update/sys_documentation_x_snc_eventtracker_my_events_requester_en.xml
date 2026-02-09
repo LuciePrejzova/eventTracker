@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="name" label="Item" language="en" table="x_snc_eventtracker_my_events">
+    <sys_documentation element="requester" label="Requester" language="en" table="x_snc_eventtracker_my_events">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>name</element>
+            <element>requester</element>
             <help/>
             <hint/>
-            <label>Item</label>
+            <label>Requester</label>
             <language>en</language>
             <name>x_snc_eventtracker_my_events</name>
-            <plural>Items</plural>
+            <plural>Requesters</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-09 08:57:30</sys_created_on>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Item</sys_name>
+            <sys_created_on>2026-02-09 09:50:55</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Requester</sys_name>
             <sys_package display_value="eventTracker" source="x_snc_eventtracker">597de20c300332107f44267ec7d32afa</sys_package>
             <sys_policy/>
             <sys_scope display_value="eventTracker">597de20c300332107f44267ec7d32afa</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_eventtracker_my_events_name_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_eventtracker_my_events_requester_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-09 09:34:18</sys_updated_on>
+            <sys_updated_on>2026-02-09 09:50:55</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
